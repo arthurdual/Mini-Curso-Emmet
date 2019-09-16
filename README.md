@@ -1,7 +1,7 @@
 # Mini-Curso-Emmet
-###Este mini cusco de Emmet foi focada em Aumento de produtividade utilizando emmet para construção de codigos mais rapida.
+### Este mini cusco de Emmet foi focada em Aumento de produtividade utilizando emmet para construção de codigos mais rapida.
 
-#O que é Emmet?
+# O que é Emmet?
 
 O Emmet é uma maneira de você aumentar sua produtividade com HTML e CSS. Ele é nada mais, nada menos que um plugin que para seu editor de texto. Ele corta em muito o tempo necessário para se declarar tags
 Retirado de: https://medium.com/trainingcenter/aumentando-produtividade-com-emmet-fbf33ff1c17c
