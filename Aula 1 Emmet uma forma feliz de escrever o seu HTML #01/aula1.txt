@@ -1,0 +1,28 @@
+selecione algo e aperte ctrl + d e ele ira selecioar o mesmo abaixo
+
+emmet
+/*
+para criar elementos irmaos coloque +
+para criar elementos filhos coloque>
+. para classe
+# para id
+*7 gera o item 7 vezes
+*/
+Esta linha abaixo
+    header.header>img.heder-logo+nav.wrap-menu>ul.menu>li.menu-item*7
+gera:
+
+    <header class="header">
+        <img src="" alt="" class="heder-logo">
+        <nav class="wrap-menu">
+            <ul class="menu">
+                <li class="menu-item"></li>
+                <li class="menu-item"></li>
+                <li class="menu-item"></li>
+                <li class="menu-item"></li>
+                <li class="menu-item"></li>
+                <li class="menu-item"></li>
+                <li class="menu-item"></li>
+            </ul>
+        </nav>
+    </header>

@@ -1,0 +1,43 @@
+.featured{
+    /*emmet code:
+                    background: #3b89da no-repeat url(../img) right bottom;
+    gc#3b89da       background-color: #3b89da;
+    bgi             background-image: url(../img);
+    bgrnn           background-repeat: no-repeat;
+    bgp             background-position: right bottom;
+    bgs50-auto      background-position: right bottom;
+    c#f             color: #ffffff;
+    pl7p            padding-left: 7%;
+    pr7p            padding-right: 7%;
+    pt6.5           padding-top: 6.5em;
+    pb5em           padding-bottom: 5em;
+    p7              padding: 7px;
+    p6.5em7p5em7p   padding: 6.5em 7% 5em 7%;
+    */
+    background: #3b89da no-repeat url(../img) right bottom;
+    background-size: 50px auto;
+    color: #ffffff;
+    padding: 6.5em 7% 5em 7%;
+}
+    
+.featured-heading{
+    /*emmet code:
+    fz2.5       font-size: 2.5em;
+    fwb         font-weight: bold;
+    fw700       font-weight: 700;
+    maw540      max-width: 540px;
+    mb19        margin-bottom: 19px;
+    */
+    font-size: 2.5em;
+    font-weight: bold;
+    max-width: 540px;
+    margin-bottom: 19px;
+}
+
+.featured-subheading{
+
+    /*emmet code:
+    fz1.5       font-size: 1.5em;
+    */
+    font-size: 1.5em;
+}
